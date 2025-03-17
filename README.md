@@ -1,4 +1,4 @@
-# Оплачиваемая стажировка по C# 
+# Оплачиваемая стажировка
 
 1. [ИнфоТеКС](https://infotecs.ru/careers/internships/) — Стажировка ~4 месяца, C#/.NET, оплата ~20 000 ₽/мес.
 2. [КОРУС Консалтинг](https://www.korusconsulting.ru/careers/internship/) — 2–3 месяца, ASP.NET, ~15 000 ₽/мес.
